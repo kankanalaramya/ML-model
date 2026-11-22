@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+scikit-learn==1.5.2
+numpy==1.26.4
+scipy==1.13.1
+joblib
+google-cloud-storage
+google-cloud-secret-manager
+pydantic
